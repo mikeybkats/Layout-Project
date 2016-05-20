@@ -1,1 +1,79 @@
-test
+
+h1 {
+    display: block;
+    font-size: 2em;
+    -webkit-margin-before: 0em;
+    -webkit-margin-after: 0em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+    max-width: 500px;
+}
+
+h2 {
+    display: block;
+    font-size: 1.25em;
+    -webkit-margin-before: 0em;
+    -webkit-margin-after: 0em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+    color: gray;
+    max-width: 500px;
+}
+
+h5 {
+  display: inline;
+  font-size: .75em;
+  -webkit-margin-before: 0em;
+  -webkit-margin-after: 0em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+  font-weight: bold;
+  color: gray;
+}
+
+.container {
+  max-width: 900px;
+  display: block;
+  margin: 0px auto;
+}
+
+.social-icons{
+  float: right;
+  margin-top: 30px;
+}
+
+.header-logo {
+  max-width: 380px;
+  display: inline;
+  margin-right: auto;
+}
+
+.section {
+}
+
+.heading {
+  min-width: 380px;
+}
+
+.hero-title {
+  display: inline-block;
+  max-width: 500px;
+  margin-top: 30px
+}
+
+.print-recipe {
+  float: right;
+  display: inline-block;
+  margin-top: 70px;
+  margin-right: 1px;
+}
+
+.top-wordmark {
+  margin-top: 20px;
+}
+
+.top-logo {
+  margin-bottom: 10px;
+}
