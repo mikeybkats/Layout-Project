@@ -1,1 +1,44 @@
-test
+.container {
+display: block;
+max-width: 900px;
+margin: 0 auto;
+}
+.section {
+display: block;
+}
+.heading {
+
+}
+.bodycopy {
+  text-indent: 20px;
+font-size: 20px;
+}
+.recipe {
+}
+li {
+  font-family: cursive;
+  font-size: 20px;
+}
+.list {
+  position: relative;
+}
+.biopic{
+  float: left;
+  padding-right: 10px;
+}
+.bio {
+font-size: 20px;
+}
+.button {
+  display: inline;
+  float: right;
+  padding-left: 10px;
+}
+.footer {
+  margin: 0 auto;
+  text-align: center;
+  font-size: 15px;
+}
+.footerpicture {
+padding: 0px 0px 15px 0px;
+}
