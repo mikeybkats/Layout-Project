@@ -169,3 +169,13 @@ display: block;
   margin-top: -75px;
   padding: 10px;
 }
+
+.gradient {
+  height: 10px;
+  background-color: grey;
+  background-image:
+    linear-gradient(
+      to right,
+        grey, white
+      );
+}
